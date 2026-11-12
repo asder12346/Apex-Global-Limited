@@ -1,0 +1,6 @@
+{
+  "name": "Apex Capital Projects Multi Purpose Cooperative",
+  "description": "Official portal for Apex Capital Projects Multi Purpose Cooperative Ltd., Abuja. Empowering sustainable wealth, real estate, agriculture, MSME support, infrastructure, and audited dividend investments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
